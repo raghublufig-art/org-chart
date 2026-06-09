@@ -1,0 +1,18 @@
+{
+  "platform_version": "1.0",
+  "vendor": {
+    "name": "Blufig Digital",
+    "namespace": "blufig",
+    "support_url": "https://blufig.digital"
+  },
+  "widgets": [
+    {
+      "widget_key": "blufig_org_chart",
+      "name": "Contact Org Chart",
+      "resource": "app/widget.html",
+      "type": "related_list",
+      "module": "Accounts",
+      "display_name": "Contact Org Chart"
+    }
+  ]
+}
